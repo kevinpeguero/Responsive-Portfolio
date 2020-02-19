@@ -1,9 +1,10 @@
-body{
-    font-family: 'Times New Roman', Times, serif;
+.body{
+    
     background-attachment: fixed;
     height: 100%;
     width: 100%;
-    background-color: linen;
+    
+    
 }
 
 html,
@@ -31,7 +32,7 @@ body{
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
-    background-color:linen;
+    
     }
 
     .navbar .container, .navbar .container-fluid, .navbar .container-lg, .navbar .container-md, .navbar .container-sm, .navbar .container-xl {
@@ -43,24 +44,27 @@ body{
         align-items: center;
         -ms-flex-pack: justify;
         justify-content: space-between;
-        background-color: lightblue;
+        
     }
- p {
+ .p {
     margin-top: 0;
     margin-bottom: 1rem;
     line-height: 1em;
+    font-family:  Georgia, Times,  serif;
 
 } 
 
-img {
+.img {
     vertical-align: middle;
     border-style: none;
     width: 500px;
 }
-.card{
-    justify-content: flex-start;
 
-}
+
+
+
+
+
 
 
 
